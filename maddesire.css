@@ -1,1 +1,112 @@
 /* CSS declarations go here */
+#mainheader1{
+	background:#3cabf7;
+	color:#FFF;
+	font-size:65px;
+	padding-top:20px;
+	padding-bottom:30px;
+	font-weight: 300;
+}
+
+#mainheader2{
+	background:#3cabf7;
+	color:#FFF;
+}
+
+#subheader{
+	background:#5b5756;
+	font-size:22px;
+	padding:15px;
+	font-weight: 300;
+	color:#FFF;
+}
+
+#tit1{
+	font-size:34px;
+	margin-bottom:50px;
+	font-weight: 300;
+}
+
+.wrapper{
+	max-width:1150px;
+	margin:0 auto;
+}
+
+
+#b1{
+	margin-bottom:80px;
+	background:#8ec6df;
+	padding-left:50px;
+	padding-right:50px;
+	width:320px;
+	height:75px;
+	line-height:75px;
+	font-size:18px;
+}
+
+.tit_p{
+	font-weight: bold;
+	font-size:18px;
+}
+
+.img_tit{
+	margin-top:70px;
+	margin-bottom:20px;
+	margin-left:30px;
+}
+
+.btn2{
+	background:transparent;
+	color:#000;
+	border:1px solid #000;
+}
+
+.btn1{
+	margin-right:15px;
+	background:#3cabf7;
+}
+
+#b2{
+	background:#3cabf7;
+	height:50px;
+	line-height:50px;
+}
+
+footer.page-footer{
+	background-color:#5b5756;
+}
+
+footer.page-footer .footer-copyright{
+	background-color:#504d4c;
+}
+
+#logo_div{
+	padding-left:60px;
+	background:url('/images/logo_md.png') center left no-repeat;
+}
+
+#main_w{
+	padding-bottom:80px;
+	padding-left:30px;
+}
+
+.clear{
+	clear:both;
+	float:none;
+}
+
+.grey-text{
+	font-weight: 300;
+}
+
+.soca{
+	padding-top:10px;
+}
+
+#soc_vk{
+	margin-right:10px;
+}
+
+.container{
+	max-width:1150px;
+}
