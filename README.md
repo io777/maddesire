@@ -1,2 +1,2 @@
 # maddesire
-Mane page maddesire.net
+Main page maddesire.net
